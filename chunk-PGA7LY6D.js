@@ -1,0 +1,1 @@
+var a={baseUrl:"https://premium-news-be-137119353944.asia-south1.run.app/api/v1",backEndNotifyUrl:"https://premium-news-be-137119353944.asia-south1.run.app/api/v1/payment/notify",backEndCancelUrl:"https://premium-news-be-137119353944.asia-south1.run.app/api/v1/payment/cancel",production:!1};export{a};
